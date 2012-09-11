@@ -1,5 +1,5 @@
 {
-  "name": "msgpack-js",
+  "name": "msgpack-js-browser",
   "version": "0.1.2",
   "description": "A msgpack encoder and decoder using ArrayBuffer and DataView",
   "main": "msgpack.js",
@@ -9,6 +9,7 @@
       "url": "http://www.opensource.org/licenses/mit-license.php"
     }
   ],
+  "pm": "npm",
   "repositories": [
     {
       "type": "git",
